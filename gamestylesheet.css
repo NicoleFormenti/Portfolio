@@ -1,0 +1,21 @@
+html    {
+    background-color: black;
+    color: crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+body    {
+    padding: 16px;
+    text-align: center;
+}
+a, a:hover  {
+    color: floralwhite;
+}
+ul  {
+    color: floralwhite;
+    list-style-position: inside;
+    padding-top: 15px;
+}
+img {
+    padding: 32px;
+}
